@@ -16,8 +16,6 @@ html, body {
 .wrapper {
 	width: 100%;
 	margin: auto;
-	background-image: url(../images/contentbackground.jpg);
-	background-repeat: repeat;
 }
 
 .mainContent {
