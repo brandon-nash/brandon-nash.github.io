@@ -1,0 +1,24 @@
+/** Global **/
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/** Header **/
+.branding {
+  text-align: center;
+}
+
+.social-link {
+  font-size: 35px;
+  color: black;
+}
+
+.social-link-list {
+  list-style-type: none;
+}
+
+.social-link-list li {
+  display: inline;
+  padding-right: 10px;
+  align-items: center;
+}
